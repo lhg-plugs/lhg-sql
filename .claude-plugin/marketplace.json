@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"SQL取数专家：中文业务问题→SQL生成→方言适配→权限与性能自检","name":"lhg-sql","source":"./"}]}

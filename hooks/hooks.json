@@ -1,0 +1,1 @@
+{"hooks":{"PreToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/sql_guard.py\"","timeout":15,"type":"command"}],"matcher":"Bash"}]}}
